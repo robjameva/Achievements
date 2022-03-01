@@ -1,5 +1,5 @@
 # Awards-Certifications-and-Certificates
-Showcase for all the certificates and certifications I have acquired from various online courses and providers
+Showcase for the awards, certifications, and certificates I have acquired from various online courses and providers
 
 ## 🏆 Awards
 [Rising Star Award](awards/Robert_Evanik_Rising_Star.pdf)<br>
