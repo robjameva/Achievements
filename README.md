@@ -11,4 +11,4 @@ Showcase for the awards, certifications, and certificates I have acquired from v
 [SAFe 5 Practitioner](certifications/SAFe/Certified_SAFe__5_Practitioner_Badge20220301-53-wq2v18.pdf)<br>
 
 ## 📝 Certificates
-[Link to all certs](certificates)<br>
+[Link to all certificates](certificates)<br>
