@@ -1,7 +1,10 @@
 # Achievements
+Please click on the links below to learn more!
 
 ## 🎓 Education
-* [Rutgers Coding Bootcamp](certifications/Rutgers/REvanik_CodingCert.pdf)
+* [Rutgers Coding Bootcamp](education/Rutgers/REvanik_CodingCert.pdf)
+* [Rowan Univeristy: Master of Business Administration](education/Rowan/MBA.md)
+* [Rowan Univeristy: Bachelor of Science, Marketing](education/Rowan/undergrad.md)
 
 ## 🏆 Awards
 * [Rising Star Award](awards/Robert_Evanik_Rising_Star.pdf)
