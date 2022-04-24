@@ -2,7 +2,7 @@
 Showcase for the awards, certifications, and certificates I have acquired from various online courses and providers
 
 ## 🎓 Education
-* [Rutgers Coding Bootcamp](certifications/Scrum.org/Professional_Scrum_Master_I.pdf)
+* [Rutgers Coding Bootcamp](certifications/Rutgers/REvanik_CodingCert.pdf)
 
 ## 🏆 Awards
 * [Rising Star Award](awards/Robert_Evanik_Rising_Star.pdf)
