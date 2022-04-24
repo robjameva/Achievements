@@ -1,5 +1,4 @@
 # Achievements
-Showcase for the awards, certifications, and certificates I have acquired from various online courses and providers
 
 ## 🎓 Education
 * [Rutgers Coding Bootcamp](certifications/Rutgers/REvanik_CodingCert.pdf)
