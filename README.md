@@ -1,4 +1,4 @@
-# Awards-Certifications-and-Certificates
+# Achievements
 Showcase for the awards, certifications, and certificates I have acquired from various online courses and providers
 
 ## 🎓 Education
