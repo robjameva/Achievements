@@ -1,8 +1,8 @@
-# Master of Business Administration
+# 📜 Bachelor of Science, Marketing
 
-## 🎓 School: Rowan University
+## 🎓 Rowan University
 
-## 📚 Minor: Management Information Systems
+## 📚 Management Information Systems (minor)
 
 ## 💯 GPA: 3.7
 

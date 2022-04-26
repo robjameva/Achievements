@@ -1,10 +1,10 @@
-# Master of Business Administration
+# 📜 Master of Business Administration
 
-## 🎓 School: Rowan University
+## 🎓 Rowan University
 
-## 💯 GPA: 3.9
+## 💯 3.9 GPA
 
-## 📆 Timeline: Sept 2016 - Jan 2018
+## 📆 Sept 2016 - Jan 2018
 
 
 
