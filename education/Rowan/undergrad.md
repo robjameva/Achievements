@@ -1,15 +1,11 @@
 # Master of Business Administration
 
-## 🎓 School
-Rowan University
+## 🎓 School: Rowan University
 
-## 📚 Minor
-Management Information Systems
+## 📚 Minor: Management Information Systems
 
-## 💯 GPA
-3.7
+## 💯 GPA: 3.7
 
-## 📆 Timeline
-Sept 2012 - May 2016
+## 📆 Timeline: Sept 2012 - May 2016
 
 
